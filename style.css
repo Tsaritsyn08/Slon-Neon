@@ -94,3 +94,11 @@
 	font-style: normal;
 	font-display: swap; 
 }
+
+@font-face {
+	font-family: 'FuturaPT-Demi'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/FuturaPT-Demi.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
