@@ -1,6 +1,6 @@
 @font-face {
-	font-family: 'ComicSans'; 
-	src: url(Fonts/ComicSans.ttf) format('ttf');
+	font-family: 'Comic Sans'; 
+	src: url('https://tsaritsyn08.github.io/Fonts/ComicSans.ttf') format('ttf');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap; 
