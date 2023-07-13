@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Pricedown Bl';
+    src: url('PricedownBl-Regular.eot');
+    src: local('PricedownBl-Regular'),
+        url('PricedownBl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PricedownBl-Regular.woff2') format('woff2'),
+        url('PricedownBl-Regular.woff') format('woff'),
+        url('PricedownBl-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
