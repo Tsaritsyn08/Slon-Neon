@@ -16,7 +16,7 @@
 
 @font-face {
 	font-family: 'Made'; 
-	src: url('./Fonts/Made.woff') format('woff');
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/Made.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap; 
@@ -24,9 +24,73 @@
 
 @font-face {
 	font-family: 'Nexa'; 
-	src: url('./Fonts/Nexa.woff') format('woff');
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/Nexa.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap; 
 }
 
+@font-face {
+	font-family: 'Gost'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/Gost.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Phhenoma Light'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/Phhenomalight.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Redis Tygra'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/RedisTygra.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'SegoeScript'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/SegoeScript.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Ukij'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/UKIJ.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Vasek'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/Vasek.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'VerbenaC'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/VerbenaC.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+
+@font-face {
+	font-family: 'cyrvetica_extraoutline'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/cyrvetica_extraoutline.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
