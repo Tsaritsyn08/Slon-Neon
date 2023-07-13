@@ -1,15 +1,32 @@
 @font-face {
-	font-family: 'Comic Sans'; 
-	src: url('https://tsaritsyn08.github.io/Fonts/ComicSans.ttf') format('ttf');
+	font-family: 'Comic Sans MS'; 
+	src: url('./Fonts/ComicSans.ttf') format('ttf');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap; 
 }
 
 @font-face {
-	font-family: 'Futura_Round'; 
-	src: url(/FontsFutura_Round.ttf);
+	font-family: 'Gotham Pro Light'; 
+	src: url('./Fonts/Ghotamprolight.ttf') format('ttf');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap; 
 }
+
+@font-face {
+	font-family: 'Made'; 
+	src: url('./Fonts/Made.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Nexa'; 
+	src: url('./Fonts/Nexa.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
