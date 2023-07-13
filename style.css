@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'ComicSans'; 
+	src: url(Fonts/ComicSans.ttf) format('ttf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Futura_Round'; 
+	src: url(/FontsFutura_Round.ttf);
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
