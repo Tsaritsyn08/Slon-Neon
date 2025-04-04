@@ -1,0 +1,103 @@
+@font-face {
+	font-family: 'Comic Sans MS'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/ComicSans.woff') format('ttf');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Redis Tygra'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/RedisTygra.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'Vasek'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/Vasek.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+	font-family: 'VerbenaC'; 
+	src: url('https://tsaritsyn08.github.io/Slon-Neon//Fonts/VerbenaC.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap; 
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/Comfortaa.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GOST 2.304';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/GOST 2.304.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'MADE GoodTime Script';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/MADE GoodTime Script.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nexa Script Thin';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/Nexa Script Thin.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Realize My Passion';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/Realize My Passion.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Segoe Print';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/Segoe Print.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SlimamifBold';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/SlimamifBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'UKIJ Elipbe';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/UKIJ Elipbe.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'mr_VlaShu';
+  src: url('https://tsaritsyn08.github.io/Slon-Neon/Fonts/mr_VlaShu.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
